@@ -1,6 +1,6 @@
 # Banner-Generator
 
-### [+] Created By <a href="https://github.com/KasRoudra">KasRoudra</a>
+### [+] Created By <a href="https://github.com/trhacknon">trhacknon</a>
 
 ### [+] Decription :
 ***Banner generator is used to create a python file that prints colorful banner slowly.***
@@ -9,7 +9,7 @@
 
 ```apt install python2```
 
-```git clone https://github.com/KasRoudra/banner-generator```
+```git clone https://github.com/trhacknon/banner-generator```
 
 ```cd banner-generator```
 
@@ -22,7 +22,7 @@
 
 ### Or, Use Single Command
 ```
-apt install python2 && git clone https://github.com/KasRoudra/banner-generator && cd banner-generator && bash requirements.sh && python2 generator.py
+apt install python2 && git clone https://github.com/trhacknon/banner-generator && cd banner-generator && bash requirements.sh && python2 generator.py
 ```
 
 ### Features:
@@ -34,15 +34,15 @@ apt install python2 && git clone https://github.com/KasRoudra/banner-generator &
 
 #### Main View:
 
-<img src="https://github.com/KasRoudra/banner-generator/raw/main/main.jpeg">
+<img src="https://github.com/trhacknon/banner-generator/raw/main/main.jpeg">
 
 #### Generated file
 
-<img src="https://github.com/KasRoudra/banner-generator/raw/main/generated-file.jpeg">
+<img src="https://github.com/trhacknon/banner-generator/raw/main/generated-file.jpeg">
 
 #### Generated File Preview 
 
-<img src="https://github.com/KasRoudra/banner-generator/raw/main/preview.jpeg">
+<img src="https://github.com/trhacknon/banner-generator/raw/main/preview.jpeg">
 
 ### [+] The generated python file will be in python2!
 
@@ -58,7 +58,7 @@ Some words get splitted or distorted while printing. Avoid those words!
 
 ## [+] Find Me on :
 <ul>
-<li><a href="https://facebook.com/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
-<li><a href="https://m.me/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/messenger.png" alt="messenger" width="20px" height="20px"></a></li>
-<li><a href="mailto:kasroudrard@gmail.com"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/gmail.png" alt="email" width="20px" height="20px"></a></li>
+<li><a href="https://facebook.com/"><img src="https://github.com/trhacknon/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
+<li><a href="https://m.me/"><img src="https://github.com/trhacknon/kasweb/raw/main/assets/messenger.png" alt="messenger" width="20px" height="20px"></a></li>
+<li><a href="mailto:jeremydiliotti@gmail.com"><img src="https://github.com/trhacknon/kasweb/raw/main/assets/gmail.png" alt="email" width="20px" height="20px"></a></li>
 </ul>
